@@ -1,0 +1,15 @@
+body {
+    background-image: url("hatter.jpg");
+}
+.row {
+    background-color: white;
+}
+.list-group-item {
+    color:rgb(0, 132, 255);
+}
+.table td{
+    color:gray;
+}
+.d-flex {
+    border:1px solid gray;
+}
